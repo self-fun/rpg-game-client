@@ -1,0 +1,11 @@
+{
+  "name": "rpg-game-client",
+  "version": "1.0.0",
+  "description": "This is client of RPG game based on electron.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Sarychev",
+  "license": "MIT"
+}
