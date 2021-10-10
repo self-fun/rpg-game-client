@@ -4,6 +4,7 @@
   "description": "This is client of RPG game based on electron.",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nikita Sarychev",
